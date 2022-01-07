@@ -1,0 +1,675 @@
+body {
+  background-color: black;
+}
+a{
+    text-decoration: none;
+}
+p{
+    color: #fff;
+}
+.navbartxt{
+    font-family: 'Montserrat';
+    color: #fff;
+    font-size: 18.58px;
+    line-height: 26px;
+}
+.navbar-brand {
+ margin-left: 10%;
+ font-family: 'Montserrat';
+ color: #fff !important;
+ font-size: 18.58px;
+ line-height: 26px;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    background-image:url(img/Logo\ Icon\ 1.png) ;
+}
+.nav-link{
+    font-family: 'Nunito Sans';
+    margin-left: 10px;
+    color: #fff !important;
+}
+.navbar{
+    background-color: black !important;
+}
+.navbar-nav{
+    /* background-color: blue; */
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+.btn{
+    color: #fff;
+    font-family: 'Nunito Sans';
+    border: 1px solid #fff;
+    margin-right: 100px;
+}
+.navbar-light .navbar-toggler-icon{
+
+}
+.propeties1{
+    margin-top: 20px;
+    width: 100%;
+    float: left;
+    height: auto;
+    /* background-color: blanchedalmond; */
+}
+.flet{
+    height: auto;
+    width: 50%;
+    float: left;
+    margin-bottom: 20px;
+}
+.fright{
+    height: auto;
+    width: 50%;
+    float: right;
+    margin-bottom: 20px;
+}
+.fname{
+    margin-top: 10px;
+    width: 60%;
+    margin-left: 20%;
+}
+.ftext{
+    width: 70%;
+    margin-left: 20%;
+}
+.zh2{
+    color: #fff;
+    font-size: 80px;
+    line-height: 84px;
+    font-family: 'Graphik';
+}
+.fontp{
+    font-family: 'Nunito Sans';
+    font-size: 18px;
+}
+.oursevic{
+    margin-top: 10px;
+    width: 70%;
+    margin-left: 20%;
+    float: left;
+}
+.btnour{
+    margin-top: 10px;
+    float: left;
+    background-color: #5454D4;
+    color: #fff;
+    font-family: ' Nunito Sans';
+    width: 180px;
+    height: 48px;
+    border: none;
+    border-radius: 4px;
+}
+.vecto13{
+    width: 95px;
+    height: 28px;
+    color: #fff;
+    background-image: url(img/Vector\ 13.png);
+}
+.icot{
+    margin-top: 0;
+    margin-right: 10%;
+    width: 60px;
+    height: 80px;
+    float: right;
+}
+.elip57{
+    width: 40px;
+    height: 40px;
+    background-image: url(img/Ellipse\ 57.png);
+}
+.elip58{
+    float: right;
+    margin-top: -20px;
+    width: 40px;
+    height: 40px;
+    background-image: url(img/Ellipse\ 58.png);
+}
+.imgright{
+    display: flex;
+    height: 400px;
+    width: auto;
+    margin-right: 10%;
+    border-radius: 22px ;
+    background-image: url(img/Rectangle\ 9541.png) ;
+    background-repeat: no-repeat;
+}
+.imgman{
+    margin: auto;
+}
+.iconpoly{
+    width: 100%;
+    position: relative;
+    margin-top: -5%;
+}
+.poly1{
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-image: url(img/Polygon\ 2.png);
+    color: #fff;
+}
+.icon1{
+    margin-right: 10%;
+    float: right;
+    width: 40px;
+    height: 40px;
+    background-image: url(img/Icon.png);
+}
+.zh260{
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Graphik';
+}
+.maxp{
+    float: left;
+    max-width: 70%;
+}
+.imgbigz{
+    display: flex;
+    height: 670px;
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 10px;
+    background-image: url(img/image\ 4.png);
+}
+.imgova{
+    display: flex;
+    width: 124px;
+    height: 124px;
+    background-image: url(img/Oval.png);
+    margin: auto;
+}
+.path{
+    position: relative;
+    margin: auto;
+}
+.contex{
+    width: 40%;
+    margin-left: 30%;
+}
+.center{
+    text-align: center;
+}
+.top-{
+    margin-top: -100px;
+}
+.center80{
+    width: 80%;
+    margin-left: 10%;
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+}
+.center80:hover{
+   border: 1px solid rgb(7, 128, 128);
+}
+.boxitem{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 200px;
+    margin: 1.5%;
+    margin-top: 10px;
+}
+.h4cen{
+    color: #fff;
+    margin-top: 10px;
+    text-align: center;
+}
+.pcen{
+    margin-top: 10px;
+    text-align: center;
+}
+.bi{
+   margin : auto;
+   background-color: #fff;
+}
+.x80{
+    width: 80%;
+    margin-left: 10%;
+}
+.z60{
+    font-size: 55px;
+    color: #fff;
+    text-align: left;
+}
+.sole{
+    width: 100%;
+    height: 370px;
+}
+.boxsl1{
+    margin-top: 30px;
+    height: 200px;
+    width: 30%;
+    margin-left: 2%;
+    float: left;
+    background-image: url(img/image\ 28.png);
+    border-radius: 12px;
+}
+.boxsl2{
+    margin-top: 80px ;
+    height: 200px;
+    width: 30%;
+    margin-left: 3%;
+    float: left;
+    background-image: url(img/image\ 30.png);
+    /* background-color: blanchedalmond; */
+    border-radius: 12px;
+}
+.boxsl3{
+    margin-top: 130px;
+    height: 200px;
+    width: 30%;
+    margin-left: 3%;
+    float: left;
+    background-image: url(img/image\ 291.png);
+    border-radius: 12px;
+}
+footer{
+    margin-top: 60px;
+    width: 100%;
+    float: left;
+}
+.ft1{
+    max-width: 60%;
+    margin-left: 10%;
+    text-align: left;
+}
+.btnf{
+    float: right;
+    margin-right: 10%;
+}
+.icon-{
+    font-size: 20px;
+    float: right;
+    margin-top: -150px;
+    margin-right: 10%;
+}
+.fl{
+    margin-top: 20px;
+    float: left;
+    margin-left: 10%;
+}
+.ft2{
+    margin-top: 80px !important;
+    margin: 20px;
+    display: flex;
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+}
+.bttext{
+    margin-left: 1%;
+    font-family: 'Montserrat';
+    color: #fff;
+    font-size: 18.58px;
+    line-height: 26px;
+}
+.ctenf{
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+.chanitem{
+    color: #fff;
+    padding: 5px;
+}
+.enver{
+    text-align: right;
+}
+@media(max-width : 400px){
+    body {
+        background-color: black;
+      }
+      a{
+          text-decoration: none;
+      }
+      p{
+          color: #fff;
+      }
+      .navbartxt{
+          font-family: 'Montserrat';
+          color: #fff;
+          font-size: 18.58px;
+          line-height: 26px;
+      }
+      .navbar-brand {
+       margin-left: 1%;
+       font-family: 'Montserrat';
+       color: #fff !important;
+       font-size: 18.58px;
+       line-height: 26px;
+      }
+      .logo{
+          width: 40px;
+          height: 40px;
+          background-image:url(img/Logo\ Icon\ 1.png) ;
+      }
+      .nav-link{
+          font-family: 'Nunito Sans';
+          margin-left: 10px;
+          color: #fff !important;
+      }
+      .navbar{
+          background-color: black !important;
+      }
+      .navbar-nav{
+          /* background-color: blue; */
+          width: 40%;
+          margin: auto;
+          text-align: center;
+      }
+      .btn{
+          color: #fff;
+          font-family: 'Nunito Sans';
+          border: 1px solid #fff;
+          margin-right: 100px;
+      }
+      .navbar-light .navbar-toggler-icon{
+          background-color: #fff;
+      }
+      .propeties1{
+          margin-top: 20px;
+          width: 100%;
+          float: left;
+          height: auto;
+          /* background-color: blanchedalmond; */
+      }
+      .flet{
+          height: auto;
+          width: 100%;
+          float: left;
+          margin-bottom: 20px;
+      }
+      .fright{
+          height: auto;
+          width: 100%;
+          float: right;
+          margin-bottom: 20px;
+      }
+      .fname{
+          margin-top: 10px;
+          width: 60%;
+          margin-left: 20%;
+      }
+      .ftext{
+          width: 70%;
+          margin-left: 20%;
+      }
+      .zh2{
+          color: #fff;
+          font-size: 42px;
+          font-family: 'Graphik';
+          line-height: 63px;
+      }
+      .fontp{
+          font-family: 'Nunito Sans';
+          font-size: 16px;
+          line-height: 24px;
+      }
+      .oursevic{
+          margin-top: 10px;
+          width: 70%;
+          margin-left: 20%;
+          float: left;
+      }
+      .btnour{
+          margin-top: 10px;
+          float: left;
+          background-color: #5454D4;
+          color: #fff;
+          font-family: ' Nunito Sans';
+          width: 180px;
+          height: 48px;
+          border: none;
+          border-radius: 4px;
+      }
+      .vecto13{
+          width: 95px;
+          height: 28px;
+          color: #fff;
+          background-image: url(img/Vector\ 13.png);
+      }
+      .icot{
+          display: none;
+          margin-top: 0;
+          margin-right: 10%;
+          width: 60px;
+          height: 80px;
+          float: right;
+      }
+      .elip57{
+          width: 40px;
+          height: 40px;
+          background-image: url(img/Ellipse\ 57.png);
+      }
+      .elip58{
+          float: right;
+          margin-top: -20px;
+          width: 40px;
+          height: 40px;
+          background-image: url(img/Ellipse\ 58.png);
+      }
+      .imgright{
+          display: flex;
+          height: 400px;
+          width: auto;
+          margin-right: 10%;
+          border-radius: 22px ;
+          background-image: url(img/Rectangle\ 9541.png) ;
+          background-repeat: no-repeat;
+      }
+      .imgman{
+          margin: auto;
+      }
+      .iconpoly{
+          width: 100%;
+          position: relative;
+          margin-top: -5%;
+      }
+      .poly1{
+          float: left;
+          width: 40px;
+          height: 40px;
+          background-image: url(img/Polygon\ 2.png);
+          color: #fff;
+      }
+      .icon1{
+          margin-right: 10%;
+          float: right;
+          width: 40px;
+          height: 40px;
+          background-image: url(img/Icon.png);
+      }
+      .zh260{
+          color: #fff;
+          font-size: 36px;
+          line-height: 54px;
+          font-family: 'Graphik';
+      }
+      .maxp{
+          float: left;
+          width: 80%;
+          margin-left: 10%;
+          font-size: 16;
+      }
+      .imgbigz{
+          display: flex;
+          height: 184px;
+          width: 90%;
+          float: left;
+          margin-left: 5%;
+          margin-top: 10px;
+          background-image: url(img/image\ 4.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+      }
+      .imgova{
+          display: flex;
+          width: 40px;
+          height: 40px;
+          background-image: url(img/Oval.png);
+          margin: auto;
+          background-size: cover;
+          background-repeat: no-repeat;
+      }
+      .path{
+          width: 12px;
+          height: 12px;
+          position: relative;
+          margin: auto;
+      }
+      .contex{
+          width: 80%;
+          margin-left: 5%;
+      }
+      .center{
+          text-align: center;
+      }
+      /* .top-{
+          margin-top: -100px;
+      } */
+      .center80{
+          width: 80%;
+          margin-left: 10%;
+          float: left;
+          display: flex;
+          flex-wrap: wrap;
+      }
+      .center80:hover{
+         border: 1px solid rgb(7, 128, 128);
+      }
+      .boxitem{
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          height: 200px;
+          margin: 1.5%;
+          margin-top: 10px;
+      }
+      .h4cen{
+          color: #fff;
+          margin-top: 10px;
+          text-align: center;
+      }
+      .pcen{
+          margin-top: 10px;
+          text-align: center;
+      }
+      .bi{
+         margin : auto;
+         background-color: #fff;
+      }
+      .x80{
+          width: 90%;
+          margin-left: 5%;
+      }
+      .z60{
+          font-size: 36px;
+          color: #fff;
+          text-align: left;
+      }
+      .sole{
+          width: 100%;
+          height: 370px;
+      }
+      .boxsl1{
+          margin-top: 30px;
+          height: 200px;
+          width: 90%;
+          margin-left: 2%;
+          float: left;
+          background-image: url(img/image\ 28.png);
+          border-radius: 12px;
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+      .boxsl2{
+          display: none;
+          margin-top: 80px ;
+          height: 200px;
+          width: 30%;
+          margin-left: 3%;
+          float: left;
+          background-image: url(img/image\ 30.png);
+          /* background-color: blanchedalmond; */
+          border-radius: 12px;
+      }
+      .boxsl3{
+          display: none;
+          margin-top: 130px;
+          height: 200px;
+          width: 30%;
+          margin-left: 3%;
+          float: left;
+          background-image: url(img/image\ 291.png);
+          border-radius: 12px;
+      }
+      footer{
+          margin-top: 60px;
+          width: 100% ;
+          float: left;
+          height: auto;
+      }
+      .ft1{
+          width: 100%  ;
+          text-align: center;
+          height: auto;
+      }
+      .btnf{
+          margin-top: 50px;
+          float: left;
+          margin-left: 5%;
+      }
+      .fl{
+         display: none;
+          margin-top: 20px;
+          float: left;
+          margin-left: 0%;
+      }
+      .ft2{
+          margin-top: 300px;
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          float: left;
+          height: auto;
+          text-align: center;
+      }
+      .bttext{
+          margin-left: 1%;
+          font-family: 'Montserrat';
+          color: #fff;
+          font-size: 18.58px;
+          /* line-height: 26px; */
+      }
+      .fc{
+          margin: auto;
+          width: 100%;
+          float: left;
+          max-width: 50px;
+          /* background-color: #fff; */
+      }
+      .ctenf{
+          margin: auto;
+          width: 100%;
+          text-align: center;
+          float: left;
+          margin-top: 100px;
+      }
+      .chanitem{
+          float: left;
+          width: 100% !important;
+          color: #fff;
+          padding: 5px;
+      }
+      .enver{
+          width: 70% ;
+          margin: auto;
+      }
+}
